@@ -79,4 +79,5 @@ theme: material
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-    repo: https://github.com/xanke/xank-blog
+    repo: https://github.com/xanke/xank-blog.git
+    branch: master
