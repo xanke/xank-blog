@@ -2270,10 +2270,7 @@ $(document).ready(function() {
 
     'use strict';
 
-    var burger = document.querySelector('.MD-burger-icon');
-
-    if (burger !== null)
-    burger.addEventListener(
+    document.querySelector('.MD-burger-icon').addEventListener(
         'click',
         function() {
             var child;
