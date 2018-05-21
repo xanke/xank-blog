@@ -4,6 +4,12 @@ date: 2015-07-29
 thumbnail: http://cdn.xank.cn/223709aqc1jxtc1afh4ef9.jpg
 ---
 
+<img src="http://cdn.xank.cn/194930za346yzaaddi4a65.jpg" class="full-image"/>
+ 
+小区新的风景线
+
+<!--more-->
+
 ## 灯带接线图
 
 购买灯条为 30 灯/米，剪成竖条 17 灯，横 7 灯，每个数字 55 灯，共 220 灯。

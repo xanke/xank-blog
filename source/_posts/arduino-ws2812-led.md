@@ -4,7 +4,11 @@ date: 2013-09-16
 thumbnail: http://cdn.xank.cn/223709aqc1jxtc1afh4ef9.jpg
 ---
 
+<img src="http://cdn.xank.cn/223709aqc1jxtc1afh4ef9.jpg" class="full-image"/>
+
 最近入手了卷 WS2812 的 LED 灯条，可以控制到每一盏灯，而且只需要一根数据线！和大家分享下
+
+<!--more--> 
 
 ## WIKI:
 
