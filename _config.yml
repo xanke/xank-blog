@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: XANK Blog
-subtitle:
-description: xank 的博客
+title: Xank's Blog
+subtitle: 每一天都是奇迹
+description: XANK 的博客
 keywords:
 author: xank@qq.com
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,11 +73,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/xanke/xank-blog.git
+  repo: https://gitee.com/xank/xank-blog.git
   branch: master
