@@ -1,7 +1,8 @@
 ---
 title: Arduino 控制 WS2812 灯条
 date: 2013-09-16
-thumbnail: http://cdn.xank.cn/223709aqc1jxtc1afh4ef9.jpg
+tags: ['Arduino']
+categories: ['电子']
 ---
 
 <img src="http://cdn.xank.cn/223709aqc1jxtc1afh4ef9.jpg" class="full-image"/>

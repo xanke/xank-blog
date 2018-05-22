@@ -1,8 +1,8 @@
 ---
 title: DataV实践：创建迪士尼乐园实况大屏
 date: 2017-12-25
-thumbnail: https://user-gold-cdn.xitu.io/2017/12/24/16086c522afa9bd2?w=1800&h=1200&f=jpeg&s=397162
 tags: [DataV, Disney, JavaScript]
+categories: [数据可视化]
 ---
 
 <img src="https://user-gold-cdn.xitu.io/2017/12/24/160870e325f5b11f?w=2304&h=1293&f=jpeg&s=231206" class="full-image"/>

@@ -1,6 +1,7 @@
 ---
 title: Javascript 中 JSON 数据分组优化实践
 date: 2017-12-21
+categories: [JavaScript]
 ---
 
 现有一堆数据，我需要按时间进行分组，以便前端视图呈现
