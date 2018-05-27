@@ -1,7 +1,7 @@
 ---
 title: WS2812灯带做成大型数字钟，装阳台为小区居民报时！
 date: 2015-07-29
-tags: ['Arduino']
+tags: [Arduino]
 categories: ['电子']
 ---
 

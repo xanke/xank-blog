@@ -1,7 +1,7 @@
 ---
 title: Vue 中的经典方法（更新中）
 date: 2018-05-22
-categories: [前端]
+categories: [前端, Vue]
 tags: [Vue, Utils]
 ---
 

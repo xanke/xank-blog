@@ -1,12 +1,13 @@
 ---
 title: 宁波城建论坛 LOGO 改版记
 date: 2018-05-03
+categories: [设计, Logo]
 tags: [设计, Logo]
 ---
 
 <img src="http://cdn.xank.cn/cnnbuc-new-p1-80.jpg"  class="full-image">
 
-<!--more--> 
+<!--more-->
 
 ## 新配色
 

@@ -1,7 +1,7 @@
 ---
 title: Arduino 控制 WS2812 灯条
 date: 2013-09-16
-tags: ['Arduino']
+tags: [Arduino]
 categories: ['电子']
 ---
 
@@ -9,7 +9,7 @@ categories: ['电子']
 
 最近入手了卷 WS2812 的 LED 灯条，可以控制到每一盏灯，而且只需要一根数据线！和大家分享下
 
-<!--more--> 
+<!--more-->
 
 ## WIKI:
 

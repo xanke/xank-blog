@@ -1,7 +1,7 @@
 ---
 title: 解读 JavaScript 类数组
 date: 2018-05-21
-categories: [JavaScript]
+categories: [前端, JavaScript]
 tags: [JavaScript, Array]
 ---
 

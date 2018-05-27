@@ -1,8 +1,8 @@
 ---
 title: AngularJS 学习 - 梦幻西游门派闯关月光提示器
 date: 2015-12-16
-tags: ['AngularJS']
-categories: ['前端']
+categories: [前端, AngularJS]
+tags: [AngularJS]
 ---
 
 <img src="http://cdn.xank.cn/QQ%E6%88%AA%E5%9B%BE20180522130432.jpg" class="full-image">

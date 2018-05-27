@@ -1,8 +1,8 @@
 ---
 title: JavaScript Array Sort 用法
 date: 2017-06-31
-tags: ['JavaScript']
-categories: ['前端']
+categories: [前端, JavaScript]
+tags: [JavaScript, Sort]
 ---
 
 Array.sort() 方法用于对数组的元素进行排序,并返回数组。默认排序顺序是根据字符串 Unicode 码点。

@@ -1,7 +1,7 @@
 ---
 title: VueX 架构图
 date: 2018-02-20
-categories: [前端]
+categories: [前端, Vue]
 tags: [VueX, Vue, ProcessOn]
 ---
 

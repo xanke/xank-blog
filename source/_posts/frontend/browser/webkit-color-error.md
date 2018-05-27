@@ -1,7 +1,7 @@
 ---
 title: 网页渲染的颜色竟然和设定值的不同！Chrome 61+ 色差解决办法
 date: 2018-01-12
-categories: [浏览器]
+categories: [前端, 浏览器]
 tags: [浏览器]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: GIS 相关资料整理
 date: 2018-02-21
-categories: [数据库]
+categories: [GIS]
 tags: [GIS, Proj4, 地图, LeafletJS]
 ---
 
