@@ -1,7 +1,7 @@
 ---
 title: DataV实践：创建迪士尼乐园实况大屏
 date: 2017-12-25
-tags: [DataV, Disney, JavaScript]
+tags: [DataV, Disney, JavaScript, 迪士尼]
 categories: [数据可视化]
 ---
 

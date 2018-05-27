@@ -1,8 +1,8 @@
 ---
-title: 迪士尼（Disney）后端架构解析
+title: 迪士尼（Disney）API 架构解析
 date: 2018-05-20
 categories: [后端, Api]
-tags: [Api, Disney]
+tags: [Api, Disney, 迪士尼]
 ---
 
 这里总结了我研究 Disney App 中的 Api 设计架构大纲。
