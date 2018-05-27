@@ -27,19 +27,20 @@ Albers（等积投影）由于没有面积变形,所以在土地调查,植被盖
 
 https://github.com/wandergis/coordtransform
 
-提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
-
+提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和 WGS84 坐标系之间的转换
 
 ## OSM 开源地图
 
-OpenStreetMap（简称OSM）是一个网上地图协作计划，目标是创造一个内容自由且能让所有人编辑的世界地图。
+OpenStreetMap（简称 OSM）是一个网上地图协作计划，目标是创造一个内容自由且能让所有人编辑的世界地图。
 
 官网：https://www.openstreetmap.org
 
 ## 相关资料
 
-OpenStreetMap（OSM）数据方法知多少？
+###OpenStreetMap（OSM）数据方法知多少？
+
 https://zhuanlan.zhihu.com/p/25889246
 
-OSM 下载
+### OSM 下载
+
 http://download.geofabrik.de/asia.html
