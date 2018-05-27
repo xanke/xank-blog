@@ -251,4 +251,4 @@ activities 中的 **schedule** 包含了 **timeZone 时区**， 这个解决了�
 
 ---
 
-以上即是 Explor-Service API 的所有接口
+以上即是 Explor-Service API 的所有接口，通过以上三个接口，即可完成乐园等候时间的采集
