@@ -5,7 +5,7 @@ categories: [前端, Vue]
 tags: [Vue, Utils]
 ---
 
-这里整理了一些我阅读 Vue 源码中看到的一些比较不错的 Function。
+这里整理了一些我阅读 VueJS 源码中看到的一些比较不错的 Function。
 
 <!--more-->
 

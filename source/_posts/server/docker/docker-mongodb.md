@@ -1,7 +1,7 @@
 ---
 title: Docker MongoDB 单实例与集群搭建
 date: 2018-02-21
-categories: [服务器, Docket]
+categories: [服务器, Docker]
 tags: [Docker, MongoDB]
 ---
 
