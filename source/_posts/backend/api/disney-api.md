@@ -111,7 +111,7 @@ tags: [Api, Disney, 迪士尼]
 | explorer-service | 资源服务 |
 | facility-service | 用户资料服务 |
 | shdr-gxp-service | 快速通行证服务 |
-| lexicon-view-assembler-service | 门票查询服务 |
+| lexicon-view-assembler-service | 售票服务 |
 | lists-service | 列表服务 |
 | mobile-service | 移动端服务 |
 | profile-service | 账户服务 |
