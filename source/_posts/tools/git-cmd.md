@@ -67,3 +67,7 @@ git config --global user.name [user] # 设置用户名
 
 git config --global user.email [email] # 设置邮箱
 ```
+
+> 相关网站
+
+[GIT 命令大全](https://www.yiibai.com/git)
