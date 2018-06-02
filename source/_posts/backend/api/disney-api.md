@@ -5,6 +5,8 @@ categories: [后端, Api]
 tags: [Api, Disney, 迪士尼]
 ---
 
+<img src="http://cdn.xank.cn/disney-api-all.png"  class="full-image">
+
 这里总结了我研究 Disney App 中的 Api 设计架构大纲。
 
 <!--more-->
