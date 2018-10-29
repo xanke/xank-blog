@@ -4,8 +4,7 @@ RUN mkdir -p /usr/src/hexo-blog
 WORKDIR /usr/src/hexo-blog
 
 COPY . .
-RUN yarn add hexo-cli
-RUN yarn install
+RUN npm --registry=https://registry.npm.taobao.org install hexo-cli -g && npm install
 RUN hexo clean && hexo g
 
 FROM nginx:latest
