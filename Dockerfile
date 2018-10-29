@@ -4,7 +4,7 @@ RUN mkdir -p /usr/src/hexo-blog
 WORKDIR /usr/src/hexo-blog
 
 COPY . .
-RUN yarn install hexo-cli -g
+RUN yarn add hexo-cli
 RUN yarn install
 RUN hexo clean && hexo g
 
