@@ -5,6 +5,10 @@ categories: [Tool]
 tags: [VS Code]
 ---
 
+这里整理了 VS CODE 开发前端项目（VUE）常用的扩展
+
+<!--more-->
+
 ### ESLint
 
 将 ESLint 集成到 VS CODE 中（一个代码规范和错误检查工具）
