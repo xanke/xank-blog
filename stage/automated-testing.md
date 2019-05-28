@@ -5,24 +5,30 @@ categories: [test]
 tags: [测试]
 ---
 
-### 测试自动化的三波浪潮
+### 测试分类
+- 单元测试：关注应用中每个零部件的正常运转，防止后续修改影响之前的组件。
+- 功能测试：确保其整体表现符合预期，关注能否让用户正常使用。
+- 整合测试：确保单独运行正常的零部件整合到一起之后依然能正常运行。
 
-https://blog.csdn.net/itest_2016/article/details/79088940
+
+### 云测试平台
+- **Saucelabs**：https://saucelabs.com/
+- **testsigma**：https://testsigma.com/
+- CI / CD 服务：https://semaphoreci.com/pricing
+
+
+### 常用测试框架
+https://mochajs.org/
+
+https://www.cypress.io/
+
+### 测试资料
+
+- 测试自动化的三波浪潮：https://blog.csdn.net/itest_2016/article/details/79088940
+
+- https://www.jianshu.com/p/02d61fa41d66
 
 ### JS 测试大会
 
 https://www.assertjs.com/
-
-- saucelabs，一个云测试平台
-  https://saucelabs.com/
-
-https://testsigma.com/
-
-CI / CD 服务
-
-https://semaphoreci.com/pricing
-
-前端工程师看测试之TDD和BDD
-
-https://www.jianshu.com/p/02d61fa41d66
 
